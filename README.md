@@ -10,8 +10,8 @@ The visitor might add a card that corresponds to his/her memory. **Never let you
 *The issues you might feel while using the web are known! Please mind that this app is still in the making and is just my side project.*
 
 ## Deployments
-- Backend: [Heroku](heroku.com)
-- Frontend: [Netfiy](netlify.com)
+- Backend: [Heroku](www.heroku.com)
+- Frontend: [Netlify](www.netlify.com)
 
 ## Credits
 - [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
